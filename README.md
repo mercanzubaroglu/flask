@@ -1,1 +1,1 @@
-# flask
+Flask API is a tool for creating RESTful APIs using the Python web framework called Flask. The Flask API allows clients (such as web or mobile applications) to exchange data with the server. It sends and receives data in JSON format and delivers dynamic content, often interacting with databases. Important aspects such as security, session management and user authorization are also supported.
