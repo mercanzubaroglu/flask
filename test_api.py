@@ -5,7 +5,7 @@ import pandas as pd
 url = 'http://10.117.50.61:5000/predict'
 
 # Dosyadan veriyi okuma
-file_path = "C:/Users/aziz-/Downloads/aselsan.xlsx"
+file_path = "aselsan.xlsx"
 data = pd.read_excel(file_path)
 
 # Son fiyatı al
